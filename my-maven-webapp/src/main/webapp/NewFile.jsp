@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-s
 
 <h1>hi rajesh here</h1>
 </body>
